@@ -1,8 +1,5 @@
 CYBERSECURITY DASHBOARD
-
 Overview
-
-
 Welcome to CYBERSECURITY DASHBOARD – a cutting-edge platform exploring the realms of information technology, cybersecurity, and web development. This project is initiated and led by Navish Ansari, a passionate individual dedicated to pushing the boundaries of technology.
 
 About CYBERSECURITY DASHBOARD
@@ -18,7 +15,7 @@ Contributions Welcome: We encourage developers of all skill levels to contribute
 Become a Contributor: Exceptional contributors may be recognized and invited to become project contributors, shaping the future of CYBERSECURITY DASHBOARD.
 
 How to Contribute
-See our CONTRIBUTING.md for guidelines on contributing to the project. We embrace collaboration and appreciate every effort to enhanceCYBERSECURITY DASHBOARD.
+See our CONTRIBUTING.md for guidelines on contributing to the project. We embrace collaboration and appreciate every effort to enhance CYBERSECURITY DASHBOARD.
 
 License
 CYBERSECURITY DASHBOARD is licensed under the MIT License – see the LICENSE file for details.
@@ -31,6 +28,6 @@ Explore the Protocols Information section.
 Contribute to the project by following the contribution guidelines.
 Join our growing community of tech enthusiasts.
 Contact
-For inquiries and discussions, reach out to Navish Ansari at ansarinavish571@gmail.com
+For inquiries and discussions, reach out to Navish Ansari at ansarinavish571@gmail.com.
 
 Thank you for your interest in CYBERSECURITY DASHBOARD. Let's build the future together!
