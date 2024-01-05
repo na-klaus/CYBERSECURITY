@@ -1,0 +1,10 @@
+/* src/styles/FuturisticTheme.css */
+
+.futuristic-section {
+    background: linear-gradient(to right, #24243e, #302b63); /* Example gradient background */
+    color: #ffffff; /* Text color */
+    border-radius: 10px; /* Rounded corners */
+    padding: 20px; /* Padding for content */
+  
+    /* Add more futuristic styles as needed */
+  }

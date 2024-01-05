@@ -1,0 +1,22 @@
+/* Add these styles to your existing or create a new CSS file for navigation */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #007bff; /* Blue on hover */
+  }
+  

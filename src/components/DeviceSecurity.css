@@ -1,0 +1,24 @@
+/* src/components/DeviceSecurity.css */
+.device-security-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .device-security-info {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .device-security-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .device-security-item {
+    margin-bottom: 5px;
+  }
+  

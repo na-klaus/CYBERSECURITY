@@ -1,0 +1,24 @@
+/* src/components/ThreatAlerts.css */
+.threat-alerts-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .threat-alert {
+    margin-bottom: 10px;
+  }
+  
+  .threat-title {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .threat-description {
+    font-size: 14px;
+    color: #777;
+  }
+  

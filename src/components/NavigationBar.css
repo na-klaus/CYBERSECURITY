@@ -1,0 +1,27 @@
+/* src/styles/NavigationBar.css */
+nav {
+    background-color: #ffffff;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 15px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: rgb(192, 6, 6);
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #ffc107; /* Change the color on hover to a desired color */
+  }
+  
